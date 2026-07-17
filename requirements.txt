@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+spacy
+scispacy
+transformers
+torch
+jupyter
+matplotlib
